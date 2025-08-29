@@ -7,13 +7,13 @@ Key Features:
 Super fast performance (built on Starlette and Pydantic)
 
 
-## Automatic API documentation with Swagger UI and ReDoc
+### Automatic API documentation with Swagger UI and ReDoc
 
 
-# 1. Easy validation with Pydantic models
+## 1. Easy validation with Pydantic models
 
 
-# 2. Beginner-friendly and widely used in production
+## 2. Beginner-friendly and widely used in production
 
 What is CRUD in FastAPI?
 CRUD stands for:
